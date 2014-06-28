@@ -1,0 +1,4 @@
+base= input ("ingrese base:")
+altura= input ("ingrese altura:")
+area= (base*altura)/2
+print "el ares del triangulo es:", area
